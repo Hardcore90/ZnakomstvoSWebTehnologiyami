@@ -1,1 +1,1 @@
-# ZnakomstvoSWebTehnologiyami
+# Знакомство с веб-технологиями
