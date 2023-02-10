@@ -1,0 +1,25 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: green;
+}
+
+h1,
+h2,
+h3 {
+    color: red;
+}
+
+p {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+ul,
+ol {
+    text-decoration: overline;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
